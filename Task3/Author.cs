@@ -6,7 +6,9 @@ class Author
 
     public Author()
     {
-
+        _name = "Alex"; 
+        _age = 0;
+        _nationality = "Tajik";
     }
     public Author(string name, int age)
     {
